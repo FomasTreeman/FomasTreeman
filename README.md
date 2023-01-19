@@ -5,7 +5,7 @@
 
 - 📫 Contact me at tom@team-freeman.com 
 
-<img align='center' alt='spotify-github-profile' src='https://spotify-github-profile.vercel.app/api/view?uid=bobzillar13&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile'\>
+<a align='center' alt='spotify-github-profile' src='https://spotify-github-profile.vercel.app/api/view?uid=bobzillar13&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile'\>
   
 ## My Github stats
 
