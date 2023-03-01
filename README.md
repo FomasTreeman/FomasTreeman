@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About me:
 
-- 👀 I’m interested in broadening my knowledge within the coding world and relish the opportunity to create groundbreaking technologies that solve complex problems and improve people's lives
+- 👀 I’m broadening my knowledge within the coding world and relish the opportunity to create groundbreaking technologies that solve complex problems and improve people's lives
 > 🔭 (fyi [project euler](https://projecteuler.net/) is a great site for puzzling the mind with great maths problems)
 - 🔆 some great resoures i've used to learn new technologies: [CodeAcademy](https://www.codecademy.com/) and [freeCodeCamp](https://www.freecodecamp.org/)
 - ⚡ ill always fall back on python for any personal projects, it being a little more leniant and friendly ;) 
